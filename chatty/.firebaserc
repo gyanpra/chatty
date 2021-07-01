@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "chatty-aaa44",
+    "staging": "chatty-aaa44"
+  }
+}
